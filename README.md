@@ -14,6 +14,9 @@ This is a front-end application built with React.js and handcoded CSS styling.
 - User gets notified whether they win the game or not.
 - The application is responsive, user-friendly and pet friendly.
 
+### Try it out!
+https://chingu-voyages.github.io/v10-geckos-team-02/
+
 ### Screenshot:
 
 ![Application Demo](/src/img/demo.png "Screenshot of the application")
